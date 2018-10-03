@@ -18,9 +18,7 @@ System platform: WINDOWS10 Professional Edition
 
 系统平台：windows10 Professional Edition
 
-[](https://i.imgur.com/9Vzfeab.png)
 
-![](https://i.imgur.com/s2FR4bg.png)
 
 ![](https://i.imgur.com/TDZVnG2.png)
 
